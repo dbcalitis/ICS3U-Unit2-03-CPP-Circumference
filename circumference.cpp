@@ -24,5 +24,5 @@ int main() {
 
     // output
     std::cout << "\nThe circumference is " <<
-    circumference << "cm" << std::endl;
+    circumference << " cm" << std::endl;
 }
